@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9jUNN90sWPtM+Nss+KUg4/RNT4rIGeQNMaFC5qw9dgPxm1exoOGLjskJFJP0EP0QqAeiT0mmz+MM9JN2QL8M7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Real Stuff\\2022\\Integración de Aplicaciones en Entornos Web\\ToDoApi\\TodoApi\\TodoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
